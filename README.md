@@ -38,11 +38,12 @@
 
 ### 🌍 Projetos em Destaque
 
-#### 🧳 [Local Buddy](https://github.com/Eduardo-juricic/local-buddy)
+#### 🧳 [Local Buddy](https://github.com/Eduardo-juricic/local-buddy) · 🌐 [Ver App](https://local-buddy-app.herokuapp.com)
 Uma aplicação web onde viajantes podem encontrar guias locais ou roteiros personalizados criados com **IA**.
 
-#### 👕 [New Again](https://github.com/Eduardo-juricic/new-again)
+#### 👕 [New Again](https://github.com/Eduardo-juricic/New-Again-Marketplace) · 🌐 [Ver App](https://new-again-marketplace.herokuapp.com)
 Marketplace de roupas usadas em boas condições, com foco em **sustentabilidade** e **comunidade local**.
+
 
 ---
 
