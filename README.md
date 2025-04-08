@@ -56,7 +56,6 @@ Marketplace de roupas usadas em boas condições, com foco em **sustentabilidade
 
 ### 🎯 Curiosidades
 
-- 😄 Pronomes: ele/dele
 - 🎮 Amo jogos de estratégia e programação criativa
 - ☕ Viciado em café e podcasts de tecnologia
 
