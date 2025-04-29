@@ -44,6 +44,9 @@ Uma aplicação web onde viajantes podem encontrar guias locais ou roteiros pers
 #### 👕 [New Again](https://github.com/Eduardo-juricic/New-Again-Marketplace) · 🌐 [Ver App no Heroku](https://new-again-91a2bcba0f4f.herokuapp.com)
 Marketplace de roupas usadas em boas condições, com foco em **sustentabilidade** e **comunidade local**.
 
+#### 🎨 [Lista de Tarefas](https://github.com/Eduardo-juricic/Lista-de-Tarefas) · 🌐 [Ver App no Vercel]([https://nomedoprojeto.vercel.app](https://lista-de-tarefas-lvm4gufxe-eduardos-projects-bf03a680.vercel.app))  
+Breve descrição do projeto destacando a **tecnologia principal**, **propósito** ou **diferencial**.
+
 
 ---
 
