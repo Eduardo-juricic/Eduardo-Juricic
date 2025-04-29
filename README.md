@@ -45,7 +45,7 @@ Uma aplicação web onde viajantes podem encontrar guias locais ou roteiros pers
 Marketplace de roupas usadas em boas condições, com foco em **sustentabilidade** e **comunidade local**.
 
 #### 🎨 [Lista de Tarefas](https://github.com/Eduardo-juricic/Lista-de-Tarefas) · 🌐 [Ver App no Vercel](http://lista-de-tarefas-lvm4gufxe-eduardos-projects-bf03a680.vercel.app)  
-Breve descrição do projeto destacando a **tecnologia principal**, **propósito** ou **diferencial**.
+Aplicação de lista de tarefas moderna, feita para ajudar usuários a se organizar melhor, priorizar objetivos e manter o foco no que realmente importa.
 
 
 ---
