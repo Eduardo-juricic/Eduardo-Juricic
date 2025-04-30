@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Eduardo Juricic
+ ## 👋 Olá, eu sou o Eduardo Juricic
 
 🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor Full-Stack | 🌍 Criador do Local Buddy & New Again
 
@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
